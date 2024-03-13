@@ -1,0 +1,136 @@
+body  
+    .background-element {
+      width: 100%;
+      height: 300px;
+      background-image: url('https://as2.ftcdn.net/v2/jpg/01/52/12/11/1000_F_152121171_X20NbF8Sl2m84OqJhTrMR7lwOfJaIljg.jpg');
+      background-size: cover; 
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+   
+ 
+  .centered-image {
+    border-radius: 30px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;  
+  }
+  
+  ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 20px;
+  }
+  
+  table.styled-table {
+    border-collapse: collapse;
+    width: 100%;
+    background-image: url('https://cdn.hovia.com/app/uploads/Cream-Watercolour-Polka-Dot-Wallpaper-Mural-Plain-820x532.jpg');
+  }
+  
+  table.styled-table, th, td {
+    border: 1px solid black;
+  }
+  
+  th {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  td {
+    font-size: 24px;
+  }
+  
+  .audio-player {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  
+  .video-container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .video-container iframe {
+    border-radius: 30px;
+  }
+
+  .link-button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #343946;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .link-button1:hover {
+    background-color: #1a1919;
+  }
+
+  .link-button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #343946;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .link-button2:hover {
+    background-color: #1a1919;
+  }
+
+  .link-button3 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #343946;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .link-button3:hover {
+    background-color: #1a1919;
+  }
+
+  .link-button4 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #343946;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .link-button4:hover {
+    background-color: #1a1919;
+  }
+  .button-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust opacity as needed */
+  }
+  .button-container a {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
